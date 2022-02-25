@@ -54,9 +54,9 @@ The graph of Outcomes Based on Goals is as follows:
 
 **What are some other possible tables and/or graphs that we could create?**
 
-- Duration of the campaign vs Outcome
-- Parent Category vs Backers Count
-- Subcategory vs Backers Count
-- Duration of the campaign vs Backers Count
-- Outcomes vs Backers Count
-- Average donation per Category
+- Duration of the campaign vs Outcome,
+- Parent Category vs Backers Count,
+- Subcategory vs Backers Count,
+- Duration of the campaign vs Backers Count,
+- Outcomes vs Backers Count,
+- Average donation per Category.
